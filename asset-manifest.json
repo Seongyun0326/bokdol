@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/bokdol/static/css/main.712cadcc.css",
+    "main.js": "/bokdol/static/js/main.5223f3e2.js",
+    "static/media/bokdol.MP4": "/bokdol/static/media/bokdol.f664e3185a90a842d465.MP4",
+    "static/media/step3.png": "/bokdol/static/media/step3.4905f59d4d7ef5b071a0.png",
+    "static/media/step2.png": "/bokdol/static/media/step2.97510c94b633a509faaf.png",
+    "static/media/front.jpg": "/bokdol/static/media/front.be6d151ac87fd60c7a01.jpg",
+    "static/media/laptop.jpg": "/bokdol/static/media/laptop.45ddf500e572fb2f1d35.jpg",
+    "static/media/step1.png": "/bokdol/static/media/step1.730bd360932c0a13c972.png",
+    "static/media/double.png": "/bokdol/static/media/double.8be045e6bb88be63d414.png",
+    "index.html": "/bokdol/index.html",
+    "main.712cadcc.css.map": "/bokdol/static/css/main.712cadcc.css.map",
+    "main.5223f3e2.js.map": "/bokdol/static/js/main.5223f3e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.712cadcc.css",
+    "static/js/main.5223f3e2.js"
+  ]
+}
